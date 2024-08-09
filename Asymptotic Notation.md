@@ -1,16 +1,3 @@
-We use asymptotic notation to describe the runtime of a program. The three types of asymptotic notation are big Theta, big Omega, and big O.
-We use big Theta (Θ) to describe the runtime if the runtime of the program is the same in every case.
-The different common runtimes from fastest to slowest are: Θ(1), Θ(log N), Θ(N), Θ(N log N), Θ(N2), Θ(2N), Θ(N!).
-We use big Omega (Ω) to describe the best-case running time of a program.
-We use big O (O) to describe the worst-case running time of a program.
-We typically describe a program’s running time in terms of big O.
-When finding the runtime of a program with multiple steps, you can divide the program into different sections and add the runtimes of the various sections. You can then take the slowest runtime and use that runtime to describe the entire program.
-When analyzing the runtime of a program, we care about which part of the program is the slowest.
-
-Like with time complexity, space complexity denotes space growth in relation to the input size. It’s also important to note that space complexity usually refers to any additional space that will be needed, and doesn’t count the space of the input.
-
-Space complexity is important to consider alongside time complexity when comparing data structures and algorithms
-
 
 # Asymptotic Notation and Complexity Analysis
 
@@ -54,6 +41,4 @@ Space complexity refers to the growth of space requirements in relation to the i
 ---
 
 Understanding both time and space complexity helps in selecting the most efficient algorithms and data structures for your needs.
-
-
 
