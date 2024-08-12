@@ -58,7 +58,7 @@ To further enhance the `BinarySearchTree` implementation, consider adding:
 - **`.delete()` Method**: Allows removal of a node from the BST while maintaining the tree's properties.
 - **Self-Balancing Feature**: Maintains the balance of the tree during insertions and deletions, ensuring that the tree remains balanced with a maximum depth of log(N). This guarantees O(log N) time complexity for insertion and search operations.
 
+
 ## Summary
 
 The Binary Search Tree is a dynamic and efficient data structure for managing sorted data. It provides efficient insertion and search operations while maintaining a sorted order. Advanced features like self-balancing and deletion methods can further enhance its functionality and performance.
-
