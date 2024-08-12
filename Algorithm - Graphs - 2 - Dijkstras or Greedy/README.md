@@ -1,3 +1,4 @@
+
 # Greedy Algorithms
 
 A **greedy algorithm** builds up a solution for an optimization problem by making the best decision at each step. 

@@ -1,3 +1,4 @@
+
 This code snippet demonstrates two variations of the bubble sort algorithm for sorting a list of integers in ascending order. It also compares the performance of these two variations by counting the number of iterations they perform. Here’s a breakdown of the code and its functionality:
 
 ### Initial Setup
@@ -90,3 +91,4 @@ print("POST SORT: {0}".format(nums))
    - The iteration counts will be different between the unoptimized and optimized versions, with the optimized version generally performing fewer comparisons. 
 
 This code demonstrates how minor improvements in the bubble sort algorithm can lead to performance gains by reducing the number of unnecessary comparisons.
+

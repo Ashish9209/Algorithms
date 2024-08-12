@@ -1,4 +1,3 @@
-
 # MaxHeap Class Implementation
 
 The `MaxHeap` class represents a max heap data structure. In a max heap, the key at a parent node is always greater than or equal to the keys of its children, and the highest key is at the root. This class provides methods to add elements to the heap and ensure that the heap property is maintained.
@@ -89,6 +88,3 @@ The `MaxHeap` class provides basic functionality for a max heap:
 
 This implementation maintains the max heap property, where each parent node is greater than or equal to its children, ensuring that the maximum value is always at the root.
 ```
-
-
-

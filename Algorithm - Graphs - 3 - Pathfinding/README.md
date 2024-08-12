@@ -37,5 +37,3 @@ The **A* algorithm** is a greedy graph search algorithm designed to efficiently 
 - **Heuristic Functions:**
   - **Manhattan Heuristic:** Used for estimating distances on a grid.
   - **Euclidean Heuristic:** Used for estimating distances between cities.
-
-This file provides an overview of pathfinding techniques, focusing on the A* algorithm, its modifications from Dijkstra’s Algorithm, and heuristic functions used in the search process.

@@ -1,3 +1,4 @@
+
 # Graph Search Algorithms
 
 Graph search algorithms are used to traverse a graph data structure to locate a specific value. During traversal, vertices are marked with a “visited” list to keep track of whether each vertex has been checked.

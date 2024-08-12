@@ -1,10 +1,10 @@
+
 class MaxHeap:
   def __init__(self):
     self.heap_list = [None]
     self.count = 0
 
   # HEAP HELPER METHODS
-  # DO NOT CHANGE!
   def parent_idx(self, idx):
     return idx // 2
 

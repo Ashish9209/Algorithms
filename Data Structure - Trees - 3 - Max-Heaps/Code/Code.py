@@ -1,4 +1,3 @@
-# import random number generator
 from random import randrange
 # import heap class
 from max_heap import MaxHeap 

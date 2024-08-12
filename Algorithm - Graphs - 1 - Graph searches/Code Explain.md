@@ -1,3 +1,4 @@
+
 Break down and simplify the provided code which includes implementations for Breadth-First Search (BFS) and Depth-First Search (DFS) algorithms:
 
 ### Depth-First Search (DFS)

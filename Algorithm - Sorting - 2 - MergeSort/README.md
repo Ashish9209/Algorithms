@@ -1,3 +1,4 @@
+
 The code implements the Merge Sort algorithm, which is a popular and efficient sorting algorithm based on the divide-and-conquer principle. Here’s a detailed explanation of the code and how it works:
 
 ### Merge Sort Overview

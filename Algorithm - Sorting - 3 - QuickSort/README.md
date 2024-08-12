@@ -1,3 +1,4 @@
+
 This code demonstrates the implementation of the Quick Sort algorithm, a highly efficient sorting algorithm that uses a divide-and-conquer approach. Here's a detailed explanation of how this code works:
 
 ### Code Breakdown
@@ -90,3 +91,5 @@ print(unsorted_list)
   - **Divide and Conquer**: Quick Sort works by selecting a pivot, partitioning the list into elements less than and greater than the pivot, and then recursively sorting the sub-lists.
   - **Random Pivot**: Using a random pivot improves performance by reducing the likelihood of encountering worst-case scenarios, which can occur if the pivot is always the smallest or largest element.
   - **Efficiency**: Quick Sort has an average time complexity of \(O(n \log n)\) and is efficient for large datasets, though it can degrade to \(O(n^2)\) in the worst case if the pivot selection is poor.
+
+  
